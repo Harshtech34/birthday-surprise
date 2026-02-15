@@ -5,4 +5,4 @@ Single-file interactive webpage built for a friend — includes:
 - sliding page animations
 - small balloon-shooting mini-game
 
-View live: use GitHub Pages (Settings → Pages → deploy from `main` branch / `root`)
+View live: https://harshtech34.github.io/birthday-surprise/
